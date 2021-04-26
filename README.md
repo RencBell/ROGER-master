@@ -1,3 +1,3 @@
 # ROGER
 
-Placeholder for basic code of the TEG project
+Placeholder for basic code of the ROGER project
